@@ -1,4 +1,4 @@
-# Machine-Learning-research-projects
+# Artificial-Intelligence-research-projects
 
 # Includes:
 

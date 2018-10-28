@@ -1,4 +1,4 @@
-# Deep-Learning-research-projects
+# Machine-Learning-research-projects
 
 # Includes:
 
